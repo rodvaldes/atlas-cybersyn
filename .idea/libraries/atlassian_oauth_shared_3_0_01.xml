@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="atlassian-oauth-shared-3.0.01">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle41/version0.0/atlassian-oauth-service-provider-sal-plugin-3.0.0_1458740586000.jar-embedded/META-INF/lib/atlassian-oauth-shared-3.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-fileupload-1.2.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle43/version0.0/pdkinstall-plugin-0.2_1458740586000.jar-embedded/META-INF/lib/commons-fileupload-1.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

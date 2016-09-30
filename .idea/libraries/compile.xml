@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="compile">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/testlibs/compile/atlassian-spring-scanner-annotation-1.2.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/testlibs/compile/slf4j-api-1.7.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/testlibs/compile/slf4j-simple-1.7.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/testlibs/compile/gson-2.2.2-atlassian-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle69/version0.0/atlassian-refapp-sal-plugin-4.0.0.jar-embedded/META-INF/lib/httpmime-4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle69/version0.0/atlassian-refapp-sal-plugin-4.0.0.jar-embedded/META-INF/lib/commons-codec-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle69/version0.0/atlassian-refapp-sal-plugin-4.0.0.jar-embedded/META-INF/lib/atlassian-secure-utils-3.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle69/version0.0/atlassian-refapp-sal-plugin-4.0.0.jar-embedded/META-INF/lib/sal-spi-3.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle69/version0.0/atlassian-refapp-sal-plugin-4.0.0.jar-embedded/META-INF/lib/atlassian-annotations-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle69/version0.0/atlassian-refapp-sal-plugin-4.0.0.jar-embedded/META-INF/lib/sal-core-3.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle69/version0.0/atlassian-refapp-sal-plugin-4.0.0.jar-embedded/META-INF/lib/bcprov-jdk15on-1.50.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle69/version0.0/atlassian-refapp-sal-plugin-4.0.0.jar-embedded/META-INF/lib/atlassian-trusted-apps-seraph-integration-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle69/version0.0/atlassian-refapp-sal-plugin-4.0.0.jar-embedded/META-INF/lib/atlassian-trusted-apps-core-4.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

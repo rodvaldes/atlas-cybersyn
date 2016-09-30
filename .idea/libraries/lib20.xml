@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib20">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle66/version0.0/atlassian-refapp-charlie-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/stax-api-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle66/version0.0/atlassian-refapp-charlie-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/jettison-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle66/version0.0/atlassian-refapp-charlie-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/commons-lang-2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

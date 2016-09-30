@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle49/version0.0/atlassian-nav-links-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/atlassian-nav-links-api-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle49/version0.0/atlassian-nav-links-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/atlassian-nav-links-spi-4.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

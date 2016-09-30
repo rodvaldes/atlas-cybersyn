@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="lib22">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle67/version0.0/atlassian-refapp-decorator-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/soycompiler-20140422-8ece726-atlassian-5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle67/version0.0/atlassian-refapp-decorator-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/guice-multibindings-3.1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle67/version0.0/atlassian-refapp-decorator-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/jsr305-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle67/version0.0/atlassian-refapp-decorator-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/sisu-guice-3.1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle67/version0.0/atlassian-refapp-decorator-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/atlassian-util-concurrent-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle67/version0.0/atlassian-refapp-decorator-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/soy-template-renderer-plugin-api-4.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle67/version0.0/atlassian-refapp-decorator-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle67/version0.0/atlassian-refapp-decorator-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/icu4j-51.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle67/version0.0/atlassian-refapp-decorator-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle67/version0.0/atlassian-refapp-decorator-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/fugue-2.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle67/version0.0/atlassian-refapp-decorator-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/atlassian-soy-core-4.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle67/version0.0/atlassian-refapp-decorator-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/javax.inject-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle67/version0.0/atlassian-refapp-decorator-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/guice-assistedinject-3.1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle67/version0.0/atlassian-refapp-decorator-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/soy-template-plugin-4.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

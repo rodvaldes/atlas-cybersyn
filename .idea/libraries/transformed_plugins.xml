@@ -1,0 +1,55 @@
+<component name="libraryTable">
+  <library name="transformed-plugins">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-refapp-web-item-plugin-4.0.0_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-refapp-auth-plugin-4.0.0_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-httpclient-plugin-0.22.3_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-oauth-service-provider-sal-plugin-3.0.0_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-refapp-nav-links-plugin-4.0.0_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-instrumentation-expose-rest-2.0.1_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-template-renderer-velocity17-plugin-3.0.0_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-universal-plugin-manager-plugin-2.20.2_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-refapp-amd-plugin-4.0.0_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/adminUI-1.0.0-SNAPSHOT-tests_1475203048000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-plugins-osgi-testrunner-bundle-1.2.3_1475203058000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-refapp-cache-plugin-4.0.0_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-template-renderer-api-3.0.0_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-refapp-decorator-plugin-4.0.0_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/rest-api-browser-3.1.3_1475203058000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/streams-core-plugin-7.0.1_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-oauth-service-provider-spi-3.0.0_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-oauth-service-provider-plugin-3.0.0_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/applinks-cors-plugin-5.1.0_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-oauth-signature-generator-plugin-3.0.0_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/developer-toolbox-plugin-2.0.17_1475203058000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-landlord-plugin-2.0.1_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-refapp-sal-trust-plugin-4.0.0_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-healthcheck-5.0.0_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-oauth-admin-plugin-3.0.0_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/applinks-basicauth-plugin-5.1.0_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/pdkinstall-plugin-0.2_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/streams-aggregator-plugin-7.0.1_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/auiplugin-5.8.11_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-nav-links-plugin-4.0.0_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-refapp-trusted-apps-client-plugin-4.0.0_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-oauth-consumer-spi-3.0.0_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/applinks-trustedapps-plugin-5.1.0_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/streams-api-7.0.1_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-refapp-trusted-apps-plugin-4.0.0_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-oauth-consumer-sal-plugin-3.0.0_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-oauth-consumer-plugin-3.0.0_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-refapp-applinks-plugin-4.0.0_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/applinks-oauth-plugin-5.1.0_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/plugin-data-editor-1.2_1475203058000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-instrumentation-expose-jmx-2.0.1_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-refapp-ao-plugin-4.0.0_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/applinks-plugin-5.1.0_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-refapp-streams-plugin-4.0.0_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-refapp-charlie-plugin-4.0.0_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/streams-spi-7.0.1_1458740586000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/transformed-plugins/atlassian-rest-module-5.0.1_1458740586000.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib14">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle54/version0.0/less-transformer-plugin-3.0.0.jar-embedded/META-INF/lib/commons-codec-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle54/version0.0/less-transformer-plugin-3.0.0.jar-embedded/META-INF/lib/rhino-1.7R4-atlassian1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle54/version0.0/less-transformer-plugin-3.0.0.jar-embedded/META-INF/lib/lesscss-core-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle54/version0.0/less-transformer-plugin-3.0.0.jar-embedded/META-INF/lib/lesscss-spi-3.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

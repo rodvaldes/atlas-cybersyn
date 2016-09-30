@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle72/version0.0/atlassian-refapp-trusted-apps-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/atlassian-trusted-apps-core-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle72/version0.0/atlassian-refapp-trusted-apps-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/bcprov-jdk15on-1.50.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle72/version0.0/atlassian-refapp-trusted-apps-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/atlassian-trusted-apps-seraph-integration-4.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle39/version0.0/atlassian-oauth-consumer-sal-plugin-3.0.0_1458740586000.jar-embedded/META-INF/lib/atlassian-oauth-shared-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle39/version0.0/atlassian-oauth-consumer-sal-plugin-3.0.0_1458740586000.jar-embedded/META-INF/lib/oauth-20090617.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle39/version0.0/atlassian-oauth-consumer-sal-plugin-3.0.0_1458740586000.jar-embedded/META-INF/lib/atlassian-oauth-consumer-core-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle39/version0.0/atlassian-oauth-consumer-sal-plugin-3.0.0_1458740586000.jar-embedded/META-INF/lib/atlassian-oauth-bridge-3.0.0-m001-fbfba5a.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

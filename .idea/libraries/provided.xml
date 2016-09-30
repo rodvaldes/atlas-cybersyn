@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="provided">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/testlibs/provided/sal-api-3.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/testlibs/provided/jsr311-api-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/testlibs/provided/javax.servlet-api-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/testlibs/provided/javax.inject-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

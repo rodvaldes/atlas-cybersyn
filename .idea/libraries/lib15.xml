@@ -1,0 +1,46 @@
+<component name="libraryTable">
+  <library name="lib15">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/hk2-locator-2.4.0-b31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/jersey-entity-filtering-2.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/javax.el-2.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/javax.el-api-2.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/guava-18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/javax.ws.rs-api-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/logback-classic-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/jersey-server-2.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/joda-time-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/jersey-guava-2.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/classmate-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/atlassian-util-concurrent-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/javassist-3.18.1-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/javax.inject-2.4.0-b31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/jersey-media-jaxb-2.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/jboss-logging-3.1.3.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/hibernate-validator-5.1.3.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/external-scheduler-client-1.0.0-m02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/jackson-annotations-2.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/jersey-media-json-jackson-2.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/atlassian-scheduler-core-1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/validation-api-1.1.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/hk2-api-2.4.0-b31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/jersey-client-2.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/jersey-common-2.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/javax.annotation-api-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/osgi-resource-locator-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/external-scheduler-api-1.0.0-m02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/logback-core-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/jackson-databind-2.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/jersey-bean-validation-2.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/jackson-jaxrs-json-provider-2.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/jackson-jaxrs-base-2.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/hk2-utils-2.4.0-b31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/aopalliance-repackaged-2.4.0-b31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/jackson-module-jaxb-annotations-2.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/atlassian-scheduler-caesium-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle71/version0.0/atlassian-refapp-scheduler-plugin-4.0.0.jar-embedded/META-INF/lib/jackson-core-2.5.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

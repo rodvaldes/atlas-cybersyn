@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib16">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle59/version0.0/atlassian-pretty-urls-plugin-2.1.1.jar-embedded/META-INF/lib/atlassian-spring-scanner-runtime-1.2.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle59/version0.0/atlassian-pretty-urls-plugin-2.1.1.jar-embedded/META-INF/lib/atlassian-plugin-point-safety-0.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle59/version0.0/atlassian-pretty-urls-plugin-2.1.1.jar-embedded/META-INF/lib/atlassian-spring-scanner-annotation-1.2.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle59/version0.0/atlassian-pretty-urls-plugin-2.1.1.jar-embedded/META-INF/lib/fugue-2.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="lib21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle64/version0.0/atlassian-refapp-auth-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/velocity-tools-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle64/version0.0/atlassian-refapp-auth-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/ldaptemplate-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle64/version0.0/atlassian-refapp-auth-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/atlassian-profiling-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle64/version0.0/atlassian-refapp-auth-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/commons-digester-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle64/version0.0/atlassian-refapp-auth-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/ehcache-1.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle64/version0.0/atlassian-refapp-auth-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/atlassian-user-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle64/version0.0/atlassian-refapp-auth-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/jsr305-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle64/version0.0/atlassian-refapp-auth-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/jsr305-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle64/version0.0/atlassian-refapp-auth-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/atlassian-seraph-2.1.7-rc3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle64/version0.0/atlassian-refapp-auth-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/atlassian-annotations-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle64/version0.0/atlassian-refapp-auth-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/atlassian-cache-api-2.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle64/version0.0/atlassian-refapp-auth-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/atlassian-util-concurrent-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle64/version0.0/atlassian-refapp-auth-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/commons-validator-1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle64/version0.0/atlassian-refapp-auth-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/oro-2.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle64/version0.0/atlassian-refapp-auth-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/sslext-1.2-0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle64/version0.0/atlassian-refapp-auth-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/commons-beanutils-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/refapp/home/osgi-cache/felix/felix-cache/bundle64/version0.0/atlassian-refapp-auth-plugin-4.0.0_1458740586000.jar-embedded/META-INF/lib/oscore-2.2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
